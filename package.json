@@ -7,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MaximLukianchuk/OWE-project/issues"
-  }
+  "license": "ISC"
 }
